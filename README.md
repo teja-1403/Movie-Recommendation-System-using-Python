@@ -7,7 +7,7 @@ In this Machine Learning project, we’ll explore the fundamentals of recommenda
 ![new](https://github.com/user-attachments/assets/37f4b297-5018-43fe-9f9f-06fd4c7711cd)
 
 # Movie Recommendation System Project using ML
-The main goal of this machine learning project is to build a recommendation engine that suggests movies to users. This Python project is designed to provide a practical understanding of how a recommendation system operates. We have developed a recommendation system using User-Based Collaborative Filtering, Item-Based Collaborative Filtering, and Model-Based Filtering. Through this project, I gained hands-on experience in applying Python, Data Science, and Machine Learning techniques to a real-world problem.
+The main goal of this machine learning project is to build a recommendation engine that suggests movies to users. This Python project is designed to provide a practical understanding of how a recommendation system operates. I have developed a recommendation system using User-Based Collaborative Filtering, Item-Based Collaborative Filtering, and Model-Based Filtering. Through this project, I gained hands-on experience in applying Python, Data Science, and Machine Learning techniques to a real-world problem.
 
 # What is a Recommendation System?
 A recommendation system is a platform that offers personalized suggestions to users by leveraging a filtering process based on user preferences and browsing history. It takes user-related information as input, often derived from prior interactions, such as browsing data, ratings, or purchase history. This information helps the system understand user preferences and provide tailored content recommendations.
