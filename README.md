@@ -1,4 +1,4 @@
-# Machine Learning Project – Data Science Movie Recommendation System Project in Python 🎦🎬 
+# Machine Learning Project – Movie Recommendation System in Python 🎦🎬 
 # Aim of Project
 Have you ever used online streaming platforms like Netflix, Amazon Prime, or Voot? Imagine watching a movie and then noticing how the platform starts recommending movies and TV shows that match your taste. It’s fascinating how these platforms understand your viewing habits and suggest content you’ll likely enjoy. This is the magic of a Recommendation System.
 Such systems analyze user behavior to provide personalized suggestions. In this era of rapid technological advancement, where Artificial Intelligence and Machine Learning are reshaping industries, recommendation systems have become an integral part of our daily lives. If you’ve ever wondered how they work, this project is for you.
